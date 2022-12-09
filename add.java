@@ -10,7 +10,8 @@ public class add{
 
 
          System.out.println("The sum is : "a+b);
-         System.out.println("The sum is : "a+b);
+         System.out.println("The sum is : "a-b);
+         
 
 
     }
